@@ -5,9 +5,9 @@
  *                      Modifying the line items through the datatable.
  * @author            : Cube84
  * @CreatedDate       : 07-10-2025
- * @last modified on  : 07-23-2025
- * @last modified by  : Cube84
- * @description       : Added the functionality to select the PriceBook for the Opportunity
+ * @last modified on  : 07-24-2025
+ * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @description       : Added the functionality to select the PriceBook for the Opportunities
 **/
 public with sharing class AddNewProductCustomController {
     public static final String DEFAULT_PRICE_BOOK_NAME = System.today().year() + ' Price Book';
